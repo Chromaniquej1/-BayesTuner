@@ -1,4 +1,4 @@
-# -BayesTuner
+# BayesTuner
 
 # Bayesian Approach on Hyperparameter Optimization for Neural Network Design
 
