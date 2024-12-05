@@ -18,9 +18,6 @@ The target variable involves classifying the customers into multiple product cat
 - Learning rate
 - Neural network architecture
 
-![Fig.1 Data Visualization](#)  
-*Include visualization here*
-
 ## Research Questions
 1. How can Bayesian optimization improve the efficiency and accuracy of hyperparameter tuning for neural networks compared to traditional methods like grid search or random search?
 2. What is the impact of optimal hyperparameter configurations on the overall performance and generalizability of a neural network for multi-class classification tasks?
